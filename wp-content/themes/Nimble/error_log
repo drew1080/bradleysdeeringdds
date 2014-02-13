@@ -1,0 +1,2 @@
+[21-Aug-2013 07:57:11] PHP Fatal error:  Call to undefined function  get_header() in /home6/wonderi4/public_html/bradleysdeeringdds/wp-content/themes/Nimble/index.php on line 1
+[30-Jan-2014 21:33:28 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home6/wonderi4/public_html/bradleysdeeringdds/wp-content/themes/Nimble/index.php on line 1
